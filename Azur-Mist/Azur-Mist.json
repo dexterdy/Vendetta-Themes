@@ -263,7 +263,7 @@
   "background": {
     "blur": 0.3,
     "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azur-Mist/Assets/Background.jpg",
-    "alpha": 0.01
+    "alpha": 0.1
   },
   "spec": 2
 }
