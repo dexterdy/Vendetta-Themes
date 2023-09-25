@@ -262,8 +262,8 @@
 
   "background": {
     "blur": 0.3,
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azur-Mist/Assets/Nord.png",
-    "alpha": 0.67
+    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azure-Mist/Assets/Nord.png",
+    "alpha": 1
   },
   "spec": 2
 }
