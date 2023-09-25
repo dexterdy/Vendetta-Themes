@@ -263,7 +263,7 @@
   "background": {
     "blur": 0.3,
     "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azure-Mist/Assets/Nord.png",
-    "alpha": 1
+    "alpha": 0.5
   },
   "spec": 2
 }
