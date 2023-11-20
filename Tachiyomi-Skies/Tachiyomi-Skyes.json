@@ -7,6 +7,7 @@
       "id": "977936340186443826"
     }
   ],
+  
   "semanticColors": {
       "ACTIVITY_CARD_BACKGROUND": [
         "#222046"
@@ -239,6 +240,7 @@
       "BRAND_860": "#0d0f24",
       "BRAND_900": "#04050c"
   },
+  
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#3A3A54",
