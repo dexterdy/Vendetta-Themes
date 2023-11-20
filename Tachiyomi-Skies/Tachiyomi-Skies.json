@@ -15,8 +15,8 @@
       "BACKGROUND_ACCENT": [
         "#0C0C1D"
       ],
-      "BACKGROUND_FLOATING": [ guhh
-        "#17121A"
+      "BACKGROUND_FLOATING": [
+        "#200041"
       ],
       "BACKGROUND_MENTIONED": [
         "rgba(153, 121, 245, 0.2)"
@@ -27,8 +27,8 @@
       "BACKGROUND_MOBILE_SECONDARY": [
         "#181632"
       ],
-      "BACKGROUND_NESTED_FLOATING": [ guhh
-        "#17121A"
+      "BACKGROUND_NESTED_FLOATING": [
+        "#200041"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
         "#27253C7a"
