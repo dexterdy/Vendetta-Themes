@@ -124,7 +124,8 @@
       "boost": "#000000",
       "ic_settings_boost_24px": "#ffffff",
       "member_list_badge_16px": "#ffffff", 
-      "check": "#ffffff"
+      "check": "#ffffff",
+      "locked": "000000"
     },
     "customOverlays": true,
     "iconpack":"rosiecord-plumpy"
