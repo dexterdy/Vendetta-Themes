@@ -71,7 +71,7 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#ffffff"],
     "SPOILER_REVEALED_BACKGROUND": ["#000000"],
     "TEXT_BRAND": ["#ffffff"],
-    "TEXT_MUTED": ["rgba(255, 255, 255, 0.25)"],
+    "TEXT_MUTED": ["#ffffff"],
     "TEXT_NORMAL": ["#ffffff"],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#00000080"]
   },
