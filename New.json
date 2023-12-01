@@ -120,6 +120,7 @@
     "icons": {
       "ic_radio_circle_checked": "#ffffff",
       "ic_selection_checked_24px": "#ffffff",
+      "ic_radio_square_checked_24px": "#ffffff",
       "ic_new_pins": "#ffffff",
       "boost": "#ffffff",
       "ic_settings_boost_24px": "#ffffff",
