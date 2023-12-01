@@ -1,6 +1,6 @@
 {
-  "name": "Tachiyomi Skies + (Black & White)",
-  "description": "A Black and White version of the Tachiyomi Skies + theme.",
+  "name": "Black and White",
+  "description": "A Black and White Themes+ compatible theme.",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -12,7 +12,7 @@
     "ACTIVITY_CARD_BACKGROUND": ["#000000"],
     "BACKGROUND_ACCENT": ["#000000"],
     "BACKGROUND_FLOATING": ["#000000"],
-    "BACKGROUND_MENTIONED": ["rgba(0, 0, 0, 0.2)"],
+    "BACKGROUND_MENTIONED": ["rgba(255, 255, 255, 0.2)"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#0000007a"],
@@ -114,11 +114,11 @@
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#000000",
-    "mentionLineColor": "#000000",
+    "mentionLineColor": "#ffffff",
     "icons": {
-      "ic_radio_circle_checked": "#000000",
-      "ic_selection_checked_24px": "#000000",
-      "ic_new_pins": "#000000",
+      "ic_radio_circle_checked": "#ffffff",
+      "ic_selection_checked_24px": "#ffffff",
+      "ic_new_pins": "#ffffff",
       "boost": "#000000",
       "ic_settings_boost_24px": "#000000",
       "member_list_badge_16px": "#000000"
