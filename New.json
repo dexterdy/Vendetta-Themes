@@ -12,7 +12,7 @@
     "ACTIVITY_CARD_BACKGROUND": ["#000000"],
     "BACKGROUND_ACCENT": ["#000000"],
     "BACKGROUND_FLOATING": ["#000000"],
-    "BACKGROUND_MENTIONED": ["rgba(255, 255, 255, 0.2)"],
+    "BACKGROUND_MENTIONED": ["rgba(255, 255, 255, 0.05)"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#0000007a"],
@@ -68,7 +68,7 @@
     "INTERACTIVE_NORMAL": ["#ffffff"],
     "MODAL_BACKGROUND": ["#000000"],
     "MODAL_FOOTER_BACKGROUND": ["#000000"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#ffffff"],
     "SPOILER_REVEALED_BACKGROUND": ["#000000"],
     "TEXT_BRAND": ["#ffffff"],
     "TEXT_MUTED": ["#ffffff"],
@@ -125,6 +125,12 @@
     },
     "customOverlays": true,
     "iconpack":"rosiecord-plumpy"
+  },
+
+  "background": {
+    "blur": 1,
+    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Black_White/Assets/Black_Deer.jpg",
+    "alpha": 0.69
   },
   "spec": 2
 }
