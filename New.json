@@ -95,7 +95,7 @@
     "BRAND_330": "#000000",
     "BRAND_345": "#000000",
     "BRAND_360": "#000000",
-    "BRAND_400": "#ffffff",
+    "BRAND_400": "#000000",
     "BRAND_430": "#000000",
     "BRAND_460": "#000000",
     "BRAND_500": "#ffffff",
@@ -123,7 +123,7 @@
       "ic_new_pins": "#ffffff",
       "boost": "#000000",
       "ic_settings_boost_24px": "#ffffff",
-      "member_list_badge_16px": "#ffffff",
+      "member_list_badge_16px": "#ffffff", 
       "check": "#ffffff"
     },
     "customOverlays": true,
