@@ -9,7 +9,6 @@
     ],
     "semanticColors": {
         "BACKGROUND_ACCENT": ["#000000"],
-        "BACKGROUND_FLOATING": ["#000000"],
         "BACKGROUND_MESSAGE_HOVER": ["#FFFFFF"],
         "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
         "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
