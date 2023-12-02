@@ -1,7 +1,13 @@
 {
-  "name": "Mono",
-  "description": "Made by Shadow",
-  "authors": [{"name": "Shadow", "id": "8464848484647"}],
+  "name": "Monochrome",
+  "description": "A Black and White Themes+ compatible theme.",
+  "authors": [
+    {
+      "name": "shadowclipsys",
+      "id": "977936340186443826"
+    }
+  ],
+  
   "semanticColors": {
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#FFFFFF"],
