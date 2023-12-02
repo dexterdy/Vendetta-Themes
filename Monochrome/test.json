@@ -62,7 +62,10 @@
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
     "RED_400": "#000000",
-    "YELLOW_300": "#FFFFFF"
+    "YELLOW_300": "#FFFFFF",
+    "WHITE_500": "#13A10E",
+	  "WHITE_630": "#16C60C",   
+    "GREEN_360": "#13A10E"
   },
   "plus": {
     "version": 0,
