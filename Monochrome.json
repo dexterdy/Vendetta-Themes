@@ -66,7 +66,8 @@
     "BRAND_360": "#FFFFFF",
     "BRAND_500": "#FFFFFF",
     "BRAND_560": "#000000",
-    "YELLOW_300": "#FFFFFF"
+    "YELLOW_300": "#FFFFFF",
+    "PLUM_15": "#FFFFFF"
   },
 
   "plus": {
@@ -82,8 +83,9 @@
       "ic_settings_boost_24px": "#FFFFFF",
       "member_list_badge_16px": "#FFFFFF", 
       "check": "#FFFFFF",
-      "discover": "#FFFFFF",
+      "img_create_guild": "#FFFFFF",
       "hub-icon": "#FFFFFF",
+      "friends_toast_icon": "#FFFFFF",
       "toast_copy_link": "#FFFFFF",
       "toast_invite_sent": "#FFFFFF",
       "toast_image_saved": "#FFFFFF",
