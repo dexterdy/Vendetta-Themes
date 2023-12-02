@@ -66,8 +66,7 @@
     "BRAND_360": "#FFFFFF",
     "BRAND_500": "#FFFFFF",
     "BRAND_560": "#000000",
-    "YELLOW_300": "#FFFFFF",
-    "PLUM_15": "#FFFFFF"
+    "YELLOW_300": "#FFFFFF"
   },
 
   "plus": {
@@ -85,7 +84,11 @@
       "check": "#FFFFFF",
       "discover": "#FFFFFF",
       "hub-icon": "#FFFFFF",
-      "toast_copy_link": "#FFFFFF"
+      "toast_copy_link": "#FFFFFF",
+      "toast_invite_sent": "#FFFFFF",
+      "toast_image_saved": "#FFFFFF",
+      "toast_copy_message": "#FFFFFF",
+      "Small": "#FFFFFF"
     },
     
     "customOverlays": true,
