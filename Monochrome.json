@@ -56,7 +56,7 @@
     "PRIMARY_360": "#FFFFFF",
     "PRIMARY_400": "#FFFFFF",
     "PRIMARY_500": "#000000",
-    "PRIMARY_560": "rgba(255, 255, 255, 0.25)",
+    "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_645": "#000000",
@@ -65,6 +65,7 @@
     "PRIMARY_800": "#000000",
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
+    "BRAND_500": "#FFFFFF",
     "BRAND_560": "#000000",
     "YELLOW_300": "#FFFFFF"
   },
