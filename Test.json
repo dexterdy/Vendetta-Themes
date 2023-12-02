@@ -48,6 +48,7 @@
     "CHAT_BACKGROUND": ["#000000"],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"]
   },
+  
   "rawColors": {
     "PRIMARY_500": "#FFFFFF",
     "PRIMARY_100": "#FFFFFF",
@@ -73,8 +74,7 @@
     "WHITE_500": "#FFFFFF",
     "WHITE_630": "#FFFFFF",
     "GREEN_360": "#FFFFFF"
-  }
-},
+  },
 
   "plus": {
     "version": 0,
@@ -90,6 +90,7 @@
       "member_list_badge_16px": "#ffffff", 
       "check": "#ffffff"
     },
+    
     "customOverlays": true,
     "iconpack":"rosiecord-plumpy"
   },
