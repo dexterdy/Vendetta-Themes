@@ -43,18 +43,18 @@
     "TEXT_SECONDARY": ["#FFFFFF"]
   },
   "rawColors": {
-    "BRAND_260": "#000000",  //F
-    "BRAND_360": "#000000",  // F
-    "BRAND_500": "#000000",   // F
+    "BRAND_260": "#000000",
+    "BRAND_360": "#000000",
+    "BRAND_500": "#000000",
     "BRAND_560": "#000000",
-    "GREEN_130": "#000000",  // F
-    "PRIMARY_100": "#000000",  // F
-    "PRIMARY_100": "#000000",  // F
-    "PRIMARY_200": "#000000",  // F
-    "PRIMARY_230": "#000000",  // F
-    "PRIMARY_300": "#000000",  // F
-    "PRIMARY_360": "#000000",  // F
-    "PRIMARY_400": "#000000",  // F
+    "GREEN_130": "#000000",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_230": "#FFFFFF",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_360": "#FFFFFF",
+    "PRIMARY_400": "#FFFFFF",
     "PRIMARY_500": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
@@ -62,7 +62,7 @@
     "PRIMARY_660": "#000000",
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
-    "YELLOW_300": "#000000"  // F
+    "YELLOW_300": "#FFFFFF"
   },
   "plus": {
     "version": 0,
