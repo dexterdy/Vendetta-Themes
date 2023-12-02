@@ -34,9 +34,9 @@
     "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
     "SCROLLBAR_THIN_THUMB": ["#FFFFFF"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "TEXT_DANGER": ["#FF5F1F"],
+    "TEXT_DANGER": ["#8b0000"],
     "TEXT_LINK": ["#FFFFFF"],
-    "TEXT_MUTED": ["#FFFFFF"],
+    "TEXT_MUTED": ["rgba(255, 255, 255, 0.5)"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"]
