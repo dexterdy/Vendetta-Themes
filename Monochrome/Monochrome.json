@@ -1,5 +1,5 @@
 {
-  "name": "Monochrome",
+  "name": "Monochrome test",
   "description": "A Black and White Themes+ compatible theme.",
   "authors": [
     {
@@ -29,7 +29,7 @@
     "HEADER_SECONDARY": ["#FFFFFF"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_HOVER": ["#FFFFFF"],
-    "INTERACTIVE_MUTED": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["rgba(255, 255, 255, 0.5)"],
     "INTERACTIVE_NORMAL": ["#FFFFFF"],
     "SCROLLBAR_AUTO_THUMB": ["#FFFFFF"],
     "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
@@ -62,7 +62,8 @@
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
     "RED_400": "#000000",
-    "YELLOW_300": "#FFFFFF"
+    "YELLOW_300": "#FFFFFF",
+    "WHITE_630": "#000000"
   },
   "plus": {
     "version": 0,
@@ -78,7 +79,6 @@
       "ic_radio_square_checked_24px": "#FFFFFF",
       "ic_selection_checked_24px": "#FFFFFF",
       "ic_settings_boost_24px": "#FFFFFF",
-      "ic_switch_accounts": "#FFFFFF",
       "member_list_badge_16px": "#FFFFFF",
       "toast_copy_link": "#FFFFFF",
       "toast_copy_message": "#FFFFFF",
