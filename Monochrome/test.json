@@ -43,9 +43,9 @@
     "TEXT_SECONDARY": ["#FFFFFF"]
   },
   "rawColors": {
-    "BRAND_260": "FFFFFF",
+    "BRAND_260": "#000000",
     "BRAND_360": "#FFFFFF",
-    "BRAND_500": "rgba(255, 255, 255, 0.25)",
+    "BRAND_500": "#FFFFFF",
     "BRAND_560": "#000000",
     "GREEN_360": "#FFFFFF",
     "PRIMARY_100": "#FFFFFF",
@@ -63,9 +63,7 @@
     "PRIMARY_800": "#000000",
     "RED_400": "#000000",
     "YELLOW_300": "#FFFFFF",
-    "WHITE_500": "#13A10E",
-	  "WHITE_630": "#16C60C",   
-    "GREEN_360": "#13A10E"
+    "WHITE_630": "#000000",   
   },
   "plus": {
     "version": 0,
