@@ -43,10 +43,10 @@
     "TEXT_SECONDARY": ["#FFFFFF"]
   },
   "rawColors": {
-    "BRAND_260": "#000000",
+    "BRAND_260": "rgba(255, 255, 255, 0.25)",
     "BRAND_360": "#FFFFFF",
     "BRAND_500": "#000000",
-    "BRAND_560": "#FFFFFF",
+    "BRAND_560": "#000000",
     "GREEN_360": "#FFFFFF",
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFFFFF",
@@ -72,13 +72,12 @@
       "boost": "#FFFFFF",
       "check": "#FFFFFF",
       "friends_toast_icon": "#FFFFFF",
-      "hub-icon": "#FFFFFF",
       "ic_application_command_24px": "#FFFFFF",
+      "ic_radio_circle": "#FFFFFF"
       "ic_radio_circle_checked": "#FFFFFF",
       "ic_radio_square_checked_24px": "#FFFFFF",
       "ic_selection_checked_24px": "#FFFFFF",
       "ic_settings_boost_24px": "#FFFFFF",
-      "img_create_guild": "#FFFFFF",
       "member_list_badge_16px": "#FFFFFF",
       "toast_copy_link": "#FFFFFF",
       "toast_copy_message": "#FFFFFF",
