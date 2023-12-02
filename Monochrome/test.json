@@ -48,6 +48,7 @@
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"]
   },
   "rawColors": {
+    "BRAND_260": "#000000",
     "BRAND_360": "#FFFFFF",
     "BRAND_500": "rgba(255, 255, 255, 0.25)",
     "GREEN_360": "#FFFFFF",
