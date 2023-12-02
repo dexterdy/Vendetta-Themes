@@ -68,4 +68,12 @@
     "WHITE_630": "#FFFFFF",
     "GREEN_360": "#FFFFFF"
   }
+},
+
+  "background": {
+    "blur": 1,
+    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Black_White/Assets/Black_Deer.jpg",
+    "alpha": 0.69
+  },
+  "spec": 2
 }
