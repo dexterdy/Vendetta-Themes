@@ -49,7 +49,7 @@
   "rawColors": {
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
-    "BRAND_500": "#FFFFFF",
+    "BRAND_500": "rgba(255, 255, 255, 0.25)",
     "BRAND_560": "#FFFFFF",
     "GREEN_360": "#FFFFFF",
     "GREEN_600": "#FFFFFF",
