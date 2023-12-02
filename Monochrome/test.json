@@ -37,7 +37,7 @@
     "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
     "SCROLLBAR_THIN_THUMB": ["#FFFFFF"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#808080"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#FFFFFF"],
     "TEXT_DANGER": ["#8b0000"],
     "TEXT_LINK": ["#FFFFFF"],
     "TEXT_MUTED": ["#FFFFFF"],
@@ -67,8 +67,6 @@
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
     "RED_400": "#000000",
-    "WHITE_500": "#FFFFFF",
-    "WHITE_630": "#a18d5e",
     "YELLOW_300": "#FFFFFF"
   },
   "plus": {
@@ -76,10 +74,9 @@
     "unreadBadgeColor": "#000000",
     "icons": {
       "boost": "#FFFFFF",
-      "check": "#FFFFFF",
+      "Check": "#FFFFFF",
       "friends_toast_icon": "#FFFFFF",
       "ic_application_command_24px": "#FFFFFF",
-      "ic_Check": "#FFFFFF",
       "ic_radio_circle": "#FFFFFF",
       "ic_radio_circle_checked": "#FFFFFF",
       "ic_radio_square_checked_24px": "#FFFFFF",
