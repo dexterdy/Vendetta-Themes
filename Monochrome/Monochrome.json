@@ -43,10 +43,10 @@
     "TEXT_SECONDARY": ["#FFFFFF"]
   },
   "rawColors": {
-    "BRAND_260": "#FFFFFF",
+    "BRAND_260": "#000000",
     "BRAND_360": "#FFFFFF",
-    "BRAND_500": "rgba(255, 255, 255, 0.1)",
-    "BRAND_560": "#000000",
+    "BRAND_500": "#000000",
+    "BRAND_560": "#FFFFFF",
     "GREEN_360": "#FFFFFF",
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFFFFF",
