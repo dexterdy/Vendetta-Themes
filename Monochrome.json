@@ -84,7 +84,9 @@
       "ic_settings_boost_24px": "#FFFFFF",
       "member_list_badge_16px": "#FFFFFF", 
       "check": "#FFFFFF",
-      "discover": "#FFFFFF"
+      "discover": "#FFFFFF",
+      "hub-icon": "#FFFFFF",
+      "toast_copy_link": "#FFFFFF"
     },
     
     "customOverlays": true,
