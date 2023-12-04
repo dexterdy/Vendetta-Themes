@@ -1,5 +1,5 @@
 {
-  "name": "Monochrome",
+  "name": "Monochrome TEST!!!",
   "description": "A Black and White Themes+ compatible theme.",
   "authors": [
     {
@@ -15,7 +15,7 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#0000007a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#0000007a"],
     "BACKGROUND_MODIFIER_HOVER": ["#0000004d"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#00000099"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF40"],
     "BACKGROUND_NESTED_FLOATING": ["#000000"],
     "BACKGROUND_PRIMARY": ["#000000"],
     "BACKGROUND_SECONDARY": ["#000000"],
@@ -69,8 +69,11 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
     "SPOILER_REVEALED_BACKGROUND": ["#FFFFFF"],
     "TEXT_BRAND": ["#FFFFFF"],
+    "TEXT_DANGER": ["#8b0000"],
+    "TEXT_LINK": ["#FFFFFF"],
     "TEXT_MUTED": ["#FFFFFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_WARNING": ["#FFFFFF"],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#00000080"]
   },
   "rawColors": {
