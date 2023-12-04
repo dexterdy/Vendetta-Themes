@@ -1,2 +1,0 @@
-make everything not 000000 to FFFFFF 
-after every change look if all is good
