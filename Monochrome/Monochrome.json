@@ -114,6 +114,7 @@
     "unreadBadgeColor": "#3A3A54",
     "mentionLineColor": "#9979F6",
       "icons": {
+        "ic_new_pins": "#9979F5"
     },
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
