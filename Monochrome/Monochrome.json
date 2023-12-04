@@ -72,7 +72,7 @@
     "TEXT_MUTED": ["#8F94A3"],
     "TEXT_NORMAL": ["#E0E7FD"],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#22204680"]
-  }
+  },
   "rawColors": {
     "BRAND_100": "#f5f2fe",
     "BRAND_130": "#e1d7fd",
