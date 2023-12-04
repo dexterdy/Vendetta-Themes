@@ -121,7 +121,7 @@
   "plus": {
     "version": 0,
     "mentionLineColor": "#FFFFFF",
-    "unreadBadgeColor": "#FFFFFF",
+    "unreadBadgeColor": "#000000",
     "icons": {
       "Check": "#FFFFFF",
       "ic_new_pins": "#FFFFFF80",
