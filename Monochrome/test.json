@@ -124,6 +124,9 @@
     "unreadBadgeColor": "#000000",
     "icons": {
       "Check": "#FFFFFF",
+      "ic_application_command_24px": "#FFFFFF",
+      "ic_copy_message_link": "#FFFFFF",
+      "ic_message_copy": "#FFFFFF",
       "ic_new_pins": "#FFFFFF80",
       "ic_radio_circle_checked": "#FFFFFF",
       "ic_radio_square_checked_24px": "#FFFFFF",
