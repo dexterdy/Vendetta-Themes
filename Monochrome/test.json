@@ -1,6 +1,6 @@
 {
-  "name": "Monochrome",
-  "description": "A Black and White Themes+ compatible theme.",
+  "name": "Monochrome Testing",
+  "description": "A Black and White Themes+ compatible theme.(More features and more bugs)",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -11,6 +11,7 @@
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": ["#000000"],
     "BACKGROUND_ACCENT": ["#000000"],
+    "BACKGROUND_MENTIONED": ["#FFFFFF40"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#FFFFFF"],
@@ -114,8 +115,7 @@
     "PRIMARY_660": "#000000",
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
-    "RED_400": "#000000",
-    "YELLOW_300": "#FFFFFF"
+    "RED_400": "#000000"
   },
   
   "plus": {
