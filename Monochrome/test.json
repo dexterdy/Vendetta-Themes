@@ -1,13 +1,13 @@
 {
-  "name": "Monochrome",
-  "description": "B&W Theme for Vendetta",
+  "name": "Monochrome Testing-Build",
+  "description": "A Black and White, Themes+ compatible theme.",
   "authors": [
     {
-       "name": "simping4hutao",
-        "id": "977936340186443826"
+      "name": "simping4hutao",
+      "id": "977936340186443826"
     }
-],
-    
+  ],
+  
 "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff"
