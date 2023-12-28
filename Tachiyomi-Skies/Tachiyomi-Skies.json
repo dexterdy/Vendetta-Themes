@@ -246,7 +246,7 @@
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#3A3A54",
-    "mentionLineColor": "#9979F6",
+    "mentionLineColor": "#9a79f7",
       "icons": {
         "ic_radio_circle_checked": "#34306a",
         "ic_selection_checked_24px": "RC_BRAND_500",
