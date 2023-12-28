@@ -1,12 +1,12 @@
 {
-    "name": "Wavy",
-    "description": "Themes+ compatible B&W Theme ",
-    "authors": [
-        {
-            "name": "simp4hutao",
-            "id": "977936340186443826"
-        }
-    ],
+  "name": "Monochrome Testing-Bud",
+  "description": "A Black and White Themes+ compatible theme.",
+  "authors": [
+    {
+      "name": "shadowclipsys",
+      "id": "977936340186443826"
+    }
+  ],
   
 "semanticColors": {
         "HEADER_PRIMARY": [
@@ -137,11 +137,9 @@
         "BLUE_345": "#000000",
         "WHITE_500": "#ffffff"
     },
-    
-    "spec": 2
-    "background": {
+  "background": {
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Monochrome/Assets/Black_Deer.jpg",
     "alpha": 0.69
   },
-  "spec": 2
-}
+    "spec": 2
