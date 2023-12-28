@@ -15,11 +15,8 @@
       "BACKGROUND_ACCENT": [
         "#0C0C1D"
       ],
-      "BACKGROUND_FLOATING": [
-        "#222047"
-      ],
       "BACKGROUND_MENTIONED": [
-        "rgba(153, 121, 245, 0.2)"
+        "#9979F5"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
         "#111128"
@@ -40,7 +37,7 @@
         "#27253C99"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#222047"
+        "#181632"
       ],
       "BACKGROUND_PRIMARY": [
         "#111128"
@@ -186,6 +183,9 @@
       "MODAL_FOOTER_BACKGROUND": [
         "#181632"
       ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+        "#222046"
+      ],
       "SPOILER_HIDDEN_BACKGROUND": [
         "#222046"
       ],
@@ -206,8 +206,10 @@
       ]
   },
 
-  "rawColors": {
+  "rawColors": { 
+      "PRIMARY_460": "#181632",
       "PRIMARY_530": "#0C0C1D",
+      "PRIMARY_560": "#111128",
       "PRIMARY_600": "#111128",
       "PRIMARY_630": "#181632",
       "PRIMARY_660": "#1D1B3C",
@@ -260,7 +262,7 @@
   "background": {
     "blur": 1,
     "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Tachiyomi-Skies/Assets/Tachiyomi_Skies_BG.jpg",
-    "alpha": 0.67
+    "alpha": 0.69
   },
   "spec": 2
 }
