@@ -55,7 +55,7 @@
         "WHITE_500": "#FFFFFF",
         "YELLOW_300": "#FFFFFF",
         "GREEN_360": "#FFFFFF",
-        "RED_400": "#FFFFFF"
+        "RED_400": "#000000"
     },
     "spec": 2
 }
