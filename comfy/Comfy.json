@@ -1,0 +1,26 @@
+{
+    "name": "Comfy",
+    "description": "It's blue :)",
+    "authors": [
+        {
+            "name": "simping4hutao",
+            "id": "977936340186443826"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_MENTIONED": ["#00000000"]
+    },
+    "rawColors": {
+        "PLUM_13": "#00003b",
+        "PLUM_15": "#00003b",
+        "PLUM_16": "#00003b",
+        "PLUM_17": "#0d0e3b",
+        "PLUM_18": "#0d0e3b",
+        "PLUM_19": "#00003b",
+        "PLUM_20": "#000a3b",
+        "PLUM_22": "#000a3b",
+        "PLUM_23": "#00003b",
+        "YELLOW_300": "#007bff"
+    },
+    "spec": 2
+}
