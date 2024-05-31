@@ -1,6 +1,6 @@
 {
-  "name": "Tachiyomi Skies +",
-  "description": "A Themes+ compatible theme with the Tachiyomi Lavender color scheme and the Violett Skies Background.",
+  "name": "Tachiyomi Skies+ no background",
+  "description": "A Themes+ compatible theme with the Tachiyomi Lavender color scheme and without the Violett Skies Background.",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -258,11 +258,5 @@
   "customOverlays": true,
   "iconpack":"rosiecord-plumpy"
 },
-  
-  "background": {
-    "blur": 1,
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Tachiyomi-Skies/Assets/Tachiyomi_Skies_BG.jpg",
-    "alpha": 0.69
-  },
   "spec": 2
 }
