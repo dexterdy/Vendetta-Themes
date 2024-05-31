@@ -1,6 +1,6 @@
 {
-  "name": "Azure Mist",
-  "description": "A light Blue theme with Themes+ compatibility and a background",
+  "name": "Azure Mist no background",
+  "description": "A light Blue theme with Themes+ compatibility and without a background",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -258,12 +258,6 @@
     },
     "customOverlays": true,
     "iconpack": "rosiecord-iconsax"
-  },
-
-  "background": {
-    "blur": 0.3,
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Azure-Mist/Assets/Nord.png",
-    "alpha": 1
   },
   "spec": 2
 }
