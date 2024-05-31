@@ -1,6 +1,6 @@
 {
-  "name": "Guhh",
-  "description": "A Guhh theme.",
+  "name": "Guhh no background",
+  "description": "A Guhh theme without a background.",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -239,12 +239,6 @@
     "version": 0,
     "customOverlays": true,
     "iconPack": "rosiecord-plumpy"
-  },
-
-  "background": {
-    "blur": 1,
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Tachiyomi-Skies/Assets/Tachiyomi-Skies_BG.jpg",
-    "alpha": 0.67
   },
   "spec": 2
 }
