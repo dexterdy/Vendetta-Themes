@@ -249,12 +249,6 @@
     },
     "customOverlays": true,
     "iconpack": "md3"
-  },
-  
-  "background": {
-    "blur": 0.2,
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Crimson-Skye/Assets/Background.jpg",
-    "alpha": 0.2
-  },
+  }, 
   "spec": 2
 }
