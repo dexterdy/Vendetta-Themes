@@ -1,6 +1,6 @@
 {
-  "name": "Monochrome",
-  "description": "A Black and White Themes+ compatible theme.",
+  "name": "Monochrome no background",
+  "description": "A Black and White Themes+ compatible theme without a background.",
   "authors": [
     {
       "name": "shadowclipsys",
@@ -137,11 +137,6 @@
     
     "customOverlays": true,
     "iconpack":"rosiecord-plumpy"
-  },
-  
-  "background": {
-    "url": "https://raw.githubusercontent.com/ImDuck42/Vendetta-Themes/main/Monochrome/Assets/Black_Deer.jpg",
-    "alpha": 0.69
   },
   "spec": 2
 }
